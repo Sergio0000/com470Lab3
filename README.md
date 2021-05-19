@@ -10,3 +10,4 @@ A frontend (angular említetted)  és az adatbázis (pl h2) technológiáját sz
 
 (Kérlek maven-t használj az alkalmazás build-eléséhez.)# com470Lab3
 # com470Lab3
+# com470lab3
